@@ -11,13 +11,13 @@
 
 ## Other important features will be as follows
 
-*Sound
-*Scripting
-*Animation
-*Artificial Intelligence
-*Networking
-*Memory management
-*Threading
-*Localization Support
-*Scene graph
-*Cinematic video support
+* Sound
+* Scripting
+* Animation
+* Artificial Intelligence
+* Networking
+* Memory management
+* Threading
+* Localization Support
+* Scene graph
+* Cinematic video support
