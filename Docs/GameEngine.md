@@ -2,7 +2,7 @@
 
 # GAME ENGINE 
 
-### So a game engine is a software that is primarily designed to make video games
+#### So a game engine is a software that is primarily designed to make video games
 
 ## Core part of a game engine will include the following ##
 
