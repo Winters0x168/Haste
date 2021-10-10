@@ -1,6 +1,6 @@
 # Threshold #
 
-## Threshold is 2d/3d game engine ##
+## Threshold is a 2d/3d game engine ##
 
 * ### Highly optimized ###
 
