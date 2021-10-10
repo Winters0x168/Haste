@@ -8,7 +8,7 @@
 
 * ### Core of Threshold also the GUI will be written in C/C++ for max performance ###
 
-* ### C++ OR C# support will be there for ingame scripting 
+* ### C++ OR C# support will be there for ingame scripting  ###
 
 
 
