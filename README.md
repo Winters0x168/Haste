@@ -13,7 +13,7 @@
 
 
 ## Note :exclamation: ## 
-#### This engine is made for pure learning purposes only and will not be commercialised in any sort, 
+#### The engine is made for pure learning purposes only and will not be commercialised in any sort, 
 #### the engine won't have any active development phase for 1 or 2 years coz i have to finish highschool first.
 #### I might occassionally update the development docs 
   
