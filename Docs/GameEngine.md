@@ -7,7 +7,7 @@
 ## Core part of a game engine will include the following ##
 
 * A Rendering engine
-* A physics engine
+* A Physics engine
 
 ## Other important features will be as follows
 
