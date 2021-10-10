@@ -26,6 +26,6 @@
 
 Will be updated!
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Next](https://github.com/Winters0x168/Threshold/blob/main/Docs/Renderer.md?plain=1)
+[Next](https://github.com/Winters0x168/Threshold/blob/main/Docs/Renderer.md?plain=1)
 
 
