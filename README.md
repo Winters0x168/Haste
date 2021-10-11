@@ -1,4 +1,4 @@
-# HASTE ENGINE
+# <ins> HASTE ENGINE </ins>
 
 ### Haste is a 2d/3d game engine 
 
