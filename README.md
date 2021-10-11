@@ -6,7 +6,7 @@
 
 * #### Will be highly optimized 
 
-* #### Haste will be using the power of OpenGL for rendering purposes 
+* #### Haste will be using the power of Vulkan for rendering purposes 
 
 * #### Core of Haste also the GUI will be written in C/C++ for max performance 
 
