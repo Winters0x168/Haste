@@ -1,6 +1,6 @@
 # <ins> HASTE ENGINE </ins>
 
-### Haste is a 2d/3d game engine 
+### <ins> Haste is a 2d/3d game engine </ins>
 
 * #### Will be highly optimized 
 
