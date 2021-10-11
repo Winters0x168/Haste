@@ -1,10 +1,10 @@
-# Threshold 
+# Haste 
 
-## Threshold is a 2d/3d game engine 
+## Haste is a 2d/3d game engine 
 
 * #### Will be highly optimized 
 
-* #### Threshold will be using the power of OpenGL for rendering purposes 
+* #### Haste will be using the power of OpenGL for rendering purposes 
 
 * #### Core of Threshold also the GUI will be written in C/C++ for max performance 
 
