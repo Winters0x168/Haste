@@ -1,4 +1,4 @@
-![Haste Icon](https://github.com/Winters0x168/Haste/blob/main/Docs/Icon/Haste.jpg)
+![Haste Icon](https://github.com/Winters0x168/Haste/blob/main/Docs/Icon/Haste.png)
 
 
 # <ins> HASTE ENGINE </ins>
