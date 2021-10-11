@@ -1,7 +1,6 @@
-![Haste Icon](https://github.com/Winters0x168/Haste/blob/main/Docs/Icon/Haste_.png)
-
-
 # <ins> HASTE ENGINE </ins>
+
+![Haste Icon](https://github.com/Winters0x168/Haste/blob/main/Docs/Icon/Haste_.png)
 
 ### <ins> Haste is a 2d/3d game engine </ins>
 
