@@ -2,13 +2,13 @@
 
 ## Threshold is a 2d/3d game engine ##
 
-* ### Will be highly optimized ###
+* #### Will be highly optimized ###
 
-* ### Threshold will be using the power of OpenGL for rendering purposes ###
+* #### Threshold will be using the power of OpenGL for rendering purposes ###
 
-* ### Core of Threshold also the GUI will be written in C/C++ for max performance ###
+* #### Core of Threshold also the GUI will be written in C/C++ for max performance ###
 
-* ### C++ OR C# support will be there for ingame scripting  ###
+* #### C++ OR C# support will be there for ingame scripting  ###
 
 
 
