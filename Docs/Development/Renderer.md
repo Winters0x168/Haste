@@ -20,3 +20,8 @@
 ## link between a Scene and Renderer
 
 #### The data contained in the scene file is passed to a rendering program or a renderer, now the renderer processes the input file and produce an output file (digital image or raster graphics image file)
+
+
+## Rendering in detail
+
+#### When we complete a pre-image(a wireframe sketch) , rendering is used, which adds in bitmap textures or procedural textures,lights,bump mapping and relative position to other objects. The result is a completed image the consumer or indented viewer sees.
