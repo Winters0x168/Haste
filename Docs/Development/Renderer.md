@@ -24,4 +24,4 @@
 
 ## Rendering in detail
 
-#### When we complete a pre-image(a wireframe sketch) , rendering is used, which adds in bitmap textures or procedural textures,lights,bump mapping and relative position to other objects. The result is a completed image the consumer or indented viewer sees.
+#### When we complete a pre-image(a wireframe sketch) , rendering is used, which adds in bitmap textures or procedural textures,lights,bump mapping and relative position to other objects. The result is a completed image the consumer or indented viewer sees.Animations will require several frames(images) to be rendered,and compiled together in an animation software for the final animation(rendered video) output.
