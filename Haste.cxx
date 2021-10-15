@@ -4,5 +4,5 @@
 
 int main()
 {
-	std::cout << "Snake game" << std::endl;
+	std::cout << "Haste" << std::endl;
 }
