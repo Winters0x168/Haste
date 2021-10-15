@@ -1,7 +1,6 @@
 // Will push the source code soon
 
 #include <iostream>
-#include <graphics.h>
 
 int main()
 {
