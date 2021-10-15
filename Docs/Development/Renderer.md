@@ -25,3 +25,7 @@
 ## Rendering in detail
 
 #### When we complete a pre-image(a wireframe sketch) , rendering is used, which adds in bitmap textures or procedural textures,lights,bump mapping and relative position to other objects. The result is a completed image the consumer or indented viewer sees.Animations will require several frames(images) to be rendered,and compiled together in an animation software for the final animation(rendered video) output.
+
+Will be upated!
+
+[Next](https://github.com/Winters0x168/Haste/blob/main/Docs/Development/Vulkan.md)
